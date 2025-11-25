@@ -7,7 +7,7 @@
 
 깃허브 이슈 사용법(계정 없을 시 배포자 **개인 디스코드**로 보내기)
 
-1.	링크 접속
+1.	링크(https://github.com/PKP-Park-Kim-Park/Greed_Machine_BugReport/issues) 접속
 2.	오른쪽의 New issue 버튼을 클릭
 3.	Title에 버그 내용의 키워드 작성(ex. 특정 구간에서의 렉)
 4.	Desciption에 아래 [유저 리포트]를 작성(영상은 10MB 미만 첨부 가능)
