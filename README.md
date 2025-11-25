@@ -10,7 +10,7 @@
 1.	링크(https://github.com/PKP-Park-Kim-Park/Greed_Machine_BugReport/issues) 접속
 2.	오른쪽의 New issue 버튼을 클릭
 3.	Title에 버그 내용의 키워드 작성(ex. 특정 구간에서의 렉)
-4.	Desciption에 아래 [유저 리포트]를 작성(영상은 10MB 미만 첨부 가능)
+4.	Description에 아래 [유저 리포트]를 작성(영상은 10MB 미만 첨부 가능)
 5.	Create 버튼 클릭하여 작성 완료
 6.	깃허브 계정이 없다면 배포자 개인 디스코드로 리포트만 보내기
 
