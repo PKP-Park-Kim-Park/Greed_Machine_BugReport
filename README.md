@@ -10,8 +10,6 @@
 
 **베타 테스터 규칙**
 
-[**다운로드**](https://drive.google.com/file/d/1V8p8rKAs-tjh6onL8AjQAo2pmMPrFzbt/view)
-
 
 
 **깃허브 이슈 사용법**(계정 없을 시 배포자 **개인** 디스코드로 보내기)
